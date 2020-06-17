@@ -66,8 +66,8 @@ The main technologies used in this project are:
   - [reactotron-react-native](https://github.com/infinitered/reactotron/blob/master/docs/quick-start-react-native.md)
   - [reactotron-redux](https://github.com/infinitered/reactotron/blob/master/docs/plugin-redux.md)
   - [reactotron-redux-saga](https://github.com/infinitered/reactotron/blob/master/docs/plugin-redux-saga.md)
-  - [OneSignal](https://documentation.onesignal.com/docs)
-  - [React Native Module for CodePush](https://github.com/microsoft/react-native-code-push)
+- [OneSignal](https://documentation.onesignal.com/docs)
+- [React Native Module for CodePush](https://github.com/microsoft/react-native-code-push)
 
 # :hammer: Running the project
 
