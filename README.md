@@ -1,4 +1,7 @@
-<h1 align="center">GoBarber</h1>
+<h1 align="center">
+ <img alt="Web login page" src=".github/logo.png" width="45%" />
+  GoBarber
+</h1>
 
 <h2 align="center">
   <img alt="Web login page" src=".github/login-web-no-bcg.png" width="45%" />
