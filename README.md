@@ -1,8 +1,8 @@
 <h1 align="center">GoBarber</h1>
 
 <h2 align="center">
-  <img alt="Web login page" src=".github/login-web-no-bcg.png" width="25%" />
-  <img alt="Mobile login page" src=".github/login-mobile-no-bcg.png" width="15%" />
+  <img alt="Web login page" src=".github/login-web-no-bcg.png" width="45%" />
+  <img alt="Mobile login page" src=".github/login-mobile-no-bcg.png" width="20%" />
 </h2>
 
 <p align="center">
@@ -39,9 +39,9 @@ The main technologies used in this project are:
 - [MongoDB](https://www.mongodb.com/)
 - [Nodemailer](https://nodemailer.com/about/)
 - [Yup](https://github.com/jquense/yup)
-- [date-fns](https://date-fns.org/)
-- [bee-queue](https://github.com/bee-queue/bee-queue)
-- [multer](https://github.com/expressjs/multer)
+- [Date-fns](https://date-fns.org/)
+- [Bee-queue](https://github.com/bee-queue/bee-queue)
+- [Multer](https://github.com/expressjs/multer)
 - [Docker](https://www.docker.com/)
 
 ### :computer: Frontend
@@ -66,6 +66,8 @@ The main technologies used in this project are:
   - [reactotron-react-native](https://github.com/infinitered/reactotron/blob/master/docs/quick-start-react-native.md)
   - [reactotron-redux](https://github.com/infinitered/reactotron/blob/master/docs/plugin-redux.md)
   - [reactotron-redux-saga](https://github.com/infinitered/reactotron/blob/master/docs/plugin-redux-saga.md)
+  - [OneSignal](https://documentation.onesignal.com/docs)
+  - [React Native Module for CodePush](https://github.com/microsoft/react-native-code-push)
 
 # :hammer: Running the project
 
