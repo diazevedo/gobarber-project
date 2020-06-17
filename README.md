@@ -4,7 +4,7 @@
 </h1>
 
 <h2 align="center">
-  <img alt="Web login page" src=".github/login-web-no-bcg.png" width="45%" />
+  <img alt="Web login page" src=".github/login-web-no-bcg.png" width="45%" height="300px"/>
   <img alt="Mobile login page" src=".github/login-mobile-no-bcg.png" width="20%" />
 </h2>
 
