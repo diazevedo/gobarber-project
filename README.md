@@ -1,8 +1,8 @@
 <h1 align="center">GoBarber</h1>
 
 <h2 align="center">
-  <img alt="Web login page" src=".github/login-web.png" width="25%" />
-  <img alt="Mobile login page" src=".github/login-mobile.png" width="15%" />
+  <img alt="Web login page" src=".github/login-web.png" width="45%" height="400px" />
+  <img alt="Mobile login page" src=".github/login-mobile.png" width="45%" height="350px"/>
 </h2>
 
 <p align="center">
