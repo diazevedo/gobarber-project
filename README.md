@@ -1,5 +1,5 @@
 <h1 align="center">
- <img alt="Web login page" src=".github/logo.svg" width="15%" />
+<img alt="Web login page" src=".github/logo.svg" width="25%" align="center"/> </br>
   GoBarber
 </h1>
 
