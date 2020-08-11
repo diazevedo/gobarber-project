@@ -22,9 +22,9 @@ This is an application that connects barbers and customers. The back-end was mad
 
 ## Project versions
 
-- [Backend](https://github.com/diazevedo/gobarber)
-- [Frontend](https://github.com/diazevedo/gobarber-web)
-- [Mobile](https://github.com/diazevedo/gobarber-mobile)
+- Backend. [Repository Link](https://github.com/diazevedo/gobarber)
+- Frontend. [Repository Link](https://github.com/diazevedo/gobarber-web)
+- Mobile. [Repository Link](https://github.com/diazevedo/gobarber-mobile)
 
 ## Technologies
 
